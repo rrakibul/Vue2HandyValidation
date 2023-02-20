@@ -1,0 +1,24 @@
+{
+  "name": "zayd",
+  "version": "1.0.0",
+  "description": "Vue3 form validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrakibul/Vue2HandyValidation.git"
+  },
+  "keywords": [
+    "vue3",
+    "form validation",
+    "validation"
+  ],
+  "author": "Mohammad Rakibul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrakibul/Vue3HandyValidation/issues"
+  },
+  "homepage": "https://github.com/rrakibul/Vue3HandyValidation#readme"
+}
