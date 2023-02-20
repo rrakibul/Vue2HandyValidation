@@ -1,1 +1,1 @@
-# Vue2HandyValidation
+# Vue3HandyValidation

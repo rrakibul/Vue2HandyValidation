@@ -1,6 +1,6 @@
 {
   "name": "zayd",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Vue3 form validation",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rrakibul/Vue2HandyValidation.git"
+    "url": "git+https://github.com/rrakibul/Vue3HandyValidation.git"
   },
   "keywords": [
     "vue3",
